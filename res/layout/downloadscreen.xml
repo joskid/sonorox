@@ -1,0 +1,5 @@
+<TableLayout android:id="@+id/TableLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/back1"><Button android:id="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Get list from community site"></Button><Spinner android:id="@+id/Spinner01" android:layout_width="wrap_content" android:layout_height="wrap_content"></Spinner>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Download this tune" android:id="@+id/downloadfilebutton"></Button>
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text='When you download a tune from the Sonorox community it is automatically saved onto your SD Card in the sonorox/ directory. After you listen to it a new menu option called "Vote!" will appear in the menu allowing you to rate this tune.' android:textColor="#7EFF00" android:textSize="15px"></TextView>
+
+</TableLayout>

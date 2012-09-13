@@ -1,0 +1,37 @@
+
+
+
+
+
+
+<TableLayout android:id="@+id/TableLayout01" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="fill_parent" android:background="@drawable/back2">
+
+
+
+
+
+
+<Button android:id="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Load tune from SD Card"></Button>
+<Button android:id="@+id/Button02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Save tune to SD Card"></Button>
+<Button android:id="@+id/Button03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Download tune from Sonorox community"></Button>
+<Button android:id="@+id/Button04" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Upload tune to Sonorox community"></Button>
+<Button android:id="@+id/Button05" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="View a demo of using Sonorox"></Button>
+<Button android:id="@+id/Button06" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Sonorox party mode"></Button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Button android:id="@+id/Button07" android:layout_width="wrap_content" android:layout_height="wrap_content" android:background="@drawable/yell" android:typeface="normal" android:clickable="true" android:lines="2" android:text="www.alphasoftware.org/sonorox"></Button>
+</TableLayout>

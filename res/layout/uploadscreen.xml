@@ -1,0 +1,4 @@
+<TableLayout android:id="@+id/TableLayout01" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/back1"><Spinner android:id="@+id/Spinner01" android:layout_width="wrap_content" android:layout_height="wrap_content"></Spinner>
+<Button android:id="@+id/loadfilebutton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Upload this file"></Button>
+<TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Sonorox allows you to upload any tune you have saved, please select one from the list to upload to the Sonorox community website. Once it is on here other users will be able to download and rate your tune." android:textSize="15px" android:textColor="#7EFF00"></TextView>
+</TableLayout>
